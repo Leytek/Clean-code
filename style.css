@@ -81,6 +81,10 @@
 }
 
 /* New Task */
+.new-task {
+  padding: 15px 0;
+}
+
 .new-task__header {
   margin: 0 0 20px;
 }
