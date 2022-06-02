@@ -114,10 +114,6 @@
   align-items: center;
 }
 
-.task > * {
-  vertical-align: middle;
-}
-
 .task__input-checkbox {
   margin: 0 10px;
   outline: none;
